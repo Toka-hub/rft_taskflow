@@ -1,2 +1,2 @@
-# rft_taskflow
+# RendszerFejlesztes
 Taskflow mintaalkalmazás RFT tantárgyból
